@@ -1,0 +1,6 @@
+git config --global user.name “<firstname><space><lastname>”
+git config --global user.email “<email>”
+git config --global color.ui auto
+git config --global core.editor "\"c:\Program Files\Notepad++\notepad++.exe\""
+git config --global core.editor "nano"
+git config --global -–list
